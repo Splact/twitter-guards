@@ -1,0 +1,12 @@
+{
+  "name": "twitter-guards",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:Splact/twitter-guards.git",
+  "author": "Dario Carella <dario.kar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^2.0.1",
+    "twit": "^2.2.11"
+  }
+}

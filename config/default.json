@@ -1,0 +1,15 @@
+{
+    "whitelist": [],
+    "blacklist": [],
+    "guardsManager": {
+      "username": "xxxxxxxxxx",
+      "consumerKey": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+      "consumerSecret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "accessToken": "xxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "accessTokenSecret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "guards": [],
+    "twitter": {
+      "timeoutMs": 60000
+    }
+}
